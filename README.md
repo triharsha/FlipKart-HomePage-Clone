@@ -1,38 +1,54 @@
+# 🚀 Flipkart Front-End Clone
 
-# Flipkart Front-End Clone
+A **Flipkart-inspired front-end webpage** developed using **HTML, CSS, and Bootstrap 5**.  
+This project focuses on building a clean user interface and implementing responsive layouts using modern web technologies.
 
-A Flipkart-inspired front-end webpage built using HTML, CSS, and Bootstrap 5.
+---
 
-# Features
+## 📌 Project Overview
 
-Static navbar with search, login & cart
+The Flipkart Front-End Clone is a static website that replicates the basic layout and design of the Flipkart homepage.  
+It is designed to strengthen front-end development skills, especially in **Bootstrap components, layout structuring, and responsiveness**.
 
-Carousel for featured products
+---
 
-Product cards with prices & “Add to Cart” buttons
+## ✨ Features
 
-Fully responsive design
+- 🧭 Static navigation bar with:
+  - Search bar  
+  - Login button  
+  - Cart button  
+- 🎠 Carousel slider for featured products  
+- 🛍️ Product cards displaying:
+  - Product title  
+  - Price  
+  - “Add to Cart” button  
+- 📱 Fully responsive layout for:
+  - Mobile  
+  - Tablet  
+  - Desktop screens  
 
-# Requirements
+---
 
-Any modern web browser
+## 🛠️ Technologies Used
 
-Internet connection (for Bootstrap CDN)
+- **HTML5** – Structure of the webpage  
+- **CSS3** – Styling and customization  
+- **Bootstrap 5** – Responsive design and UI components  
 
-# How to Run
+---
 
-Clone the repository:
+## 🛠️ Requirements
 
-git clone https://github.com/your-username/flipkart-front-end-clone.git
+- Any modern web browser (Chrome, Edge, Firefox, etc.)  
+- Internet connection (for Bootstrap CDN)  
+- Git (optional, for cloning the repository)  
 
+---
 
-Navigate to the project folder:
+## ▶️ How to Run the Project
 
-cd flipkart-front-end-clone
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/flipkart-front-end-clone.git
 
-
-Open index.html in your browser
-
-# Purpose
-
-This project helps in practicing UI structuring, Bootstrap design, and responsive web layouts.
