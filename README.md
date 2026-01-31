@@ -50,5 +50,5 @@ It is designed to strengthen front-end development skills, especially in **Boots
 
 1. Clone the repository:
    ```bash
-   https://github.com/your-username/flipkart-front-end-clone.git
+   https://github.com/triharsha/FlipKart-HomePage-Clone.git
 
